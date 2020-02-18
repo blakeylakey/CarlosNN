@@ -8,5 +8,8 @@ This is the code I had archived from my old GitHub account. I haven't yet tested
 
 Here is a sample image run through the classifier, with the class activation mapping extracted and colorized.
 
+![Carlos CAM](https://github.com/blakeylakey/CarlosNN/blob/master/carlos_cam.png?raw=true)
+![Carlos Regular](https://github.com/blakeylakey/CarlosNN/blob/master/carlos.jpg?raw=true )
+
 ## License
-MIT
+[MIT](https://github.com/blakeylakey/CarlosNN/blob/master/LICENSE)
